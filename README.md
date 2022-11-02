@@ -1,3 +1,3 @@
 # credit-card
 
-Designed by Bhuneshvar aka Bhuneshvar
+Designed by Bhuneshvar @imankitkalirawana
