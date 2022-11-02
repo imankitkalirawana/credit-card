@@ -175,6 +175,43 @@ body {
   margin-top: 20px;
 }
 
+.caution {
+  width: 250px;
+  height: 150px;
+  border-radius: 10px;
+  position: absolute;
+  right: 30px;
+  bottom: 70px;
+  background: #25252555;
+  opacity: 0.7;
+  font-family: Poppins;
+
+}
+
+.caution-head {
+  width: 250px;
+  height: 40px;
+  background: #d03b3b9a;
+  border-radius: 10px 10px 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.caution-head i {
+  margin: 0 10px;
+}
+
+.caution-body {
+  color: #fff;
+  padding: 16px;
+  font-size: 14px;
+  font-weight: 400;
+}
+
 footer {
   position: fixed;
   bottom: 0;
